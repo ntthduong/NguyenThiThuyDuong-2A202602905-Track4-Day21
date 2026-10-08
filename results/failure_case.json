@@ -1,0 +1,11 @@
+{
+  "frame_id": "000043",
+  "object_index": 2,
+  "class": "Pedestrian",
+  "distance_m": 20.64994188853809,
+  "n_object_points": 85,
+  "baseline_hit_rate": 1.0,
+  "drift_hit_rate": 0.0,
+  "hit_drop": 1.0,
+  "failure_yaw": 3.0
+}

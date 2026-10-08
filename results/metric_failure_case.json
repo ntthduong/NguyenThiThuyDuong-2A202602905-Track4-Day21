@@ -1,0 +1,14 @@
+{
+  "frame_id": "000016",
+  "object_index": 1,
+  "class": "Truck",
+  "translation_cm": 10.0,
+  "n_object_points": 1973,
+  "baseline_hit_rate": 1.0,
+  "drift_hit_rate": 1.0,
+  "median_shift_px": 5.905759588688516,
+  "p95_shift_px": 12.39807128783566,
+  "alignment_score": 0.9811510167022592,
+  "alignment_threshold": 0.85,
+  "drift_detected": false
+}
